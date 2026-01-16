@@ -1,4 +1,4 @@
-# 📝 Full Stack Todo App
+#  Full Stack Todo App
 
 A beginner-friendly Full Stack Todo Application built to understand CRUD operations and how a React frontend communicates with a Flask backend using REST APIs.
 
@@ -6,7 +6,7 @@ This project is created for learning and practice purposes.
 
 ---
 
-## 🚀 Features
+##  Features
 - Add new todos
 - View all todos
 - Delete todos
@@ -15,7 +15,7 @@ This project is created for learning and practice purposes.
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Frontend
 - React
@@ -32,7 +32,7 @@ This project is created for learning and practice purposes.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 todo-fullstack/
 - todo app/ (Frontend - React)
@@ -41,7 +41,7 @@ todo-fullstack/
 
 ---
 
-## ▶ How to Run Locally
+##  How to Run Locally
 
 ### Backend
 cd "todo backend"  
@@ -65,20 +65,20 @@ http://localhost:5173
 
 ---
 
-## 🔗 API Endpoints
+##  API Endpoints
 - GET /todos – Fetch all todos  
 - POST /todos – Add a new todo  
 - DELETE /todos/<id> – Delete a todo  
 
 ---
 
-## 🗄 Database
+##  Database
 SQLite is used for storage.  
 Database file is created automatically.
 
 ---
 
-## 🎯 Learning Goals
+##  Learning Goals
 - CRUD operations
 - Frontend & backend connection
 - REST APIs
@@ -86,6 +86,6 @@ Database file is created automatically.
 
 ---
 
-## 🙌 Author
+##  Author
 Swayam  
-Beginner Full Stack Developer 🚀
+Beginner Full Stack Developer 
